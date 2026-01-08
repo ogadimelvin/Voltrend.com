@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Your Malicious Website</title>
+</head>
+<body>
+<h1>Welcome to my website!</h1>
+<p>Click <a href="malicious-script.js">here</a> to see a surprise!</p>
+<script src="malicious-script.js"></script>
+</body>
+</html>
